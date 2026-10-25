@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Include">
+      <UniqueIdentifier>{684fdc2a-0bd1-4b72-8e2a-f72b41f4961a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{c6195ac4-e819-4a5a-bdeb-f8c4189ea71a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="framework.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Documents\mycpplib\clsUser.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MyBanklibr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\..\..\..\Downloads\clsFindClientScreen.h">
+      <Filter>Include</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Downloads\clsDeleteClientScreen.h">
+      <Filter>Include</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Downloads\clsAddNewClientScreen.h">
+      <Filter>Include</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Downloads\clsDate.h">
+      <Filter>Include</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Downloads\clsClientListScreen.h">
+      <Filter>Include</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Downloads\clsAddNewUserScreen.h">
+      <Filter>Include</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Downloads\clsBankClient.h">
+      <Filter>Include</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Downloads\clsDeleteUserScreen.h">
+      <Filter>Include</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Downloads\clsPerson.h">
+      <Filter>Include</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Downloads\clsUtil.h">
+      <Filter>Include</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Downloads\clsInputValidate.h">
+      <Filter>Include</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Downloads\clsString.h">
+      <Filter>Include</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Downloads\clsUpdateClientScreen.h">
+      <Filter>Include</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Downloads\clsDepositScreen.h">
+      <Filter>Include</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Downloads\clsScreen.h">
+      <Filter>Include</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Downloads\clsTotalBalancesScreen.h">
+      <Filter>Include</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Downloads\clsTransactionsScreen.h">
+      <Filter>Include</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Downloads\clsUsersListScreen.h">
+      <Filter>Include</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Downloads\clsWithdrawScreen.h">
+      <Filter>Include</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Downloads\clsManageUsersScreen.h">
+      <Filter>Include</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Downloads\clsMainScreen.h">
+      <Filter>Include</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Downloads\clsUpdateUserScreen.h">
+      <Filter>Include</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Downloads\clsFindUserScreen.h">
+      <Filter>Include</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Downloads\Global.h">
+      <Filter>Include</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Downloads\clsLoginScreen.h">
+      <Filter>Include</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Documents\mycpplib\clsLoginRegisterScreen.h">
+      <Filter>Include</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Downloads\clsTransferScreen.h">
+      <Filter>Include</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Downloads\clsTransferLogScreen.h">
+      <Filter>Include</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Downloads\clsCurrency.h">
+      <Filter>Include</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Documents\mycpplib\clsCurrenciesExchange.h">
+      <Filter>Include</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Documents\mycpplib\clsCurrencyListScreen.h">
+      <Filter>Include</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Documents\mycpplib\clsfindcurrency.h">
+      <Filter>Include</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Documents\mycpplib\clsupdatecurrencyrate.h">
+      <Filter>Include</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Documents\mycpplib\clsCurrencyCalculatorScreen.h">
+      <Filter>Include</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
